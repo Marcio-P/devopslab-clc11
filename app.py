@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Olá Mundo - Marcio V1.0"
+    return "Olá Mundo - Marcio V1.1"
