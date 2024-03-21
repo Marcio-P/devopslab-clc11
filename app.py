@@ -6,4 +6,4 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "Olá Mundo - Marcio V1.1"
+    return "Concluido"
